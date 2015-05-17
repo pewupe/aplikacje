@@ -1,0 +1,12 @@
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\ApplicationIcon.png
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\Background.png
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\bmi.dll
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\bmi.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\AppManifest.xaml
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\Bin\Debug\bmi.xap
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\App.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\MainPage.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\bmi.g.resources
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\bmi.dll
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\bmi.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\bmi\bmi\obj\Debug\XapCacheFile.xml

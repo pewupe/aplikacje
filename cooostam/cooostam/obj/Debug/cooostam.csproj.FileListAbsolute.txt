@@ -1,0 +1,24 @@
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\ApplicationIcon.png
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\Background.png
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\cooostam.dll
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\cooostam.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\AppManifest.xaml
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\Bin\Debug\cooostam.xap
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\App.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\MainPage.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\cooostam.g.resources
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\cooostam.dll
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\cooostam.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\cooostam\cooostam\obj\Debug\XapCacheFile.xml
+D:\aplikacje\cooostam\cooostam\Bin\Debug\ApplicationIcon.png
+D:\aplikacje\cooostam\cooostam\Bin\Debug\Background.png
+D:\aplikacje\cooostam\cooostam\Bin\Debug\cooostam.dll
+D:\aplikacje\cooostam\cooostam\Bin\Debug\cooostam.pdb
+D:\aplikacje\cooostam\cooostam\Bin\Debug\AppManifest.xaml
+D:\aplikacje\cooostam\cooostam\Bin\Debug\cooostam.xap
+D:\aplikacje\cooostam\cooostam\obj\Debug\App.g.i.cs
+D:\aplikacje\cooostam\cooostam\obj\Debug\MainPage.g.i.cs
+D:\aplikacje\cooostam\cooostam\obj\Debug\cooostam.g.resources
+D:\aplikacje\cooostam\cooostam\obj\Debug\cooostam.dll
+D:\aplikacje\cooostam\cooostam\obj\Debug\cooostam.pdb
+D:\aplikacje\cooostam\cooostam\obj\Debug\XapCacheFile.xml

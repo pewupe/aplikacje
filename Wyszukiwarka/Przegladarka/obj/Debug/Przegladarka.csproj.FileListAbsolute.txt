@@ -1,0 +1,12 @@
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\ApplicationIcon.png
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\Background.png
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\Przegladarka.dll
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\Przegladarka.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\AppManifest.xaml
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\Bin\Debug\Przegladarka.xap
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\App.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\MainPage.g.i.cs
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\Przegladarka.g.resources
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\Przegladarka.dll
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\Przegladarka.pdb
+c:\users\rurka\documents\visual studio 2010\Projects\Przegladarka\Przegladarka\obj\Debug\XapCacheFile.xml
